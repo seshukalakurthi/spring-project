@@ -33,3 +33,4 @@ node {
       sh label: '', script: 'mvn -Dfilename=testng-functional.xml surefire:test'
    } 
 }
+//Jenkins
